@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)](https://www.google.com)
+[![MasterHead](https://media.wired.com/photos/603d163e816a0ad2a36d5b4e/master/w_2560%2Cc_limit/Hero_Gif-01.gif)](https://www.google.com)
 <h1 align="center">Hi 👋, I'm Dhaval Sharma</h1>
 <h3 align="center">A passionate Cyber Security Analyst</h3>
 
