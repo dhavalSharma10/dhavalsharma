@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhaval Sharma</h1>
 <h3 align="center">A passionate Cyber Security Analyst</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif">
+<img align="right" alt="Coding" width="400" src="https://www.b2w.tv/hubfs/ezgif.com-gif-maker%20%2813%29-1.gif">
 
 - 🔭 I’m currently working on **Port Scanner**
 
